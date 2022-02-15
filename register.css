@@ -1,0 +1,39 @@
+html {
+    background: #84fab0;
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+    background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+}
+
+#nen {
+    background: #84fab0;
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+    background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+}
+
+#register_login {
+    width: 550px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border: 1px solid #30dacb;
+    border-radius: 10px;
+    background: white;
+}
+
+.text-uppercase {
+    margin: 20px 10px 20px 10px;
+}
+
+.register {
+    padding: 0 10px 0 10px;
+}
+
+.register_end {
+    border: 10px;
+    margin: 20px;
+}
+
+a {
+    font-weight: bold;
+}
